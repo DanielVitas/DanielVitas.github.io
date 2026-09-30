@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://dvitas.si/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dvitas.si/"/>
+    <xhtml:link rel="alternate" hreflang="sl" href="https://dvitas.si/sl.html"/>
+  </url>
+  <url>
+    <loc>https://dvitas.si/sl.html</loc>
+    <lastmod>2026-09-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dvitas.si/"/>
+    <xhtml:link rel="alternate" hreflang="sl" href="https://dvitas.si/sl.html"/>
+  </url>
+  <url>
+    <loc>https://dvitas.si/publications.html</loc>
+    <lastmod>2026-09-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dvitas.si/publications.html"/>
+    <xhtml:link rel="alternate" hreflang="sl" href="https://dvitas.si/objave.html"/>
+  </url>
+  <url>
+    <loc>https://dvitas.si/objave.html</loc>
+    <lastmod>2026-09-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dvitas.si/publications.html"/>
+    <xhtml:link rel="alternate" hreflang="sl" href="https://dvitas.si/objave.html"/>
+  </url>
+  <url>
+    <loc>https://dvitas.si/talks.html</loc>
+    <lastmod>2026-09-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dvitas.si/talks.html"/>
+    <xhtml:link rel="alternate" hreflang="sl" href="https://dvitas.si/predavanja.html"/>
+  </url>
+  <url>
+    <loc>https://dvitas.si/predavanja.html</loc>
+    <lastmod>2026-09-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dvitas.si/talks.html"/>
+    <xhtml:link rel="alternate" hreflang="sl" href="https://dvitas.si/predavanja.html"/>
+  </url>
+  <url>
+    <loc>https://dvitas.si/teaching.html</loc>
+    <lastmod>2026-09-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dvitas.si/teaching.html"/>
+    <xhtml:link rel="alternate" hreflang="sl" href="https://dvitas.si/poucevanje.html"/>
+  </url>
+  <url>
+    <loc>https://dvitas.si/poucevanje.html</loc>
+    <lastmod>2026-09-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dvitas.si/teaching.html"/>
+    <xhtml:link rel="alternate" hreflang="sl" href="https://dvitas.si/poucevanje.html"/>
+  </url>
+  <url>
+    <loc>https://dvitas.si/interests.html</loc>
+    <lastmod>2026-09-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dvitas.si/interests.html"/>
+    <xhtml:link rel="alternate" hreflang="sl" href="https://dvitas.si/druga-zivljenja.html"/>
+  </url>
+  <url>
+    <loc>https://dvitas.si/druga-zivljenja.html</loc>
+    <lastmod>2026-09-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dvitas.si/interests.html"/>
+    <xhtml:link rel="alternate" hreflang="sl" href="https://dvitas.si/druga-zivljenja.html"/>
+  </url>
+</urlset>
